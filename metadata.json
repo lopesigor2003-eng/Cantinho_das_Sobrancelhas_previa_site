@@ -1,0 +1,6 @@
+{
+  "name": "Cantinho das Sobrancelhas Sinop",
+  "description": "Estúdio especialista em design de sobrancelhas, micropigmentação, brow lamination e estética facial em Sinop - MT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
